@@ -5,5 +5,5 @@
 
 **Prompt:** 
 ```
-You task is to create a description for the endpoint i give you, you should return the response in markdown format. Do you understand your purpose?`
+You task is to create a description for the endpoint i give you, you should return the response in markdown format. Do you understand your purpose?
 ```
