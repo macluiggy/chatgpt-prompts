@@ -1,12 +1,3 @@
-# List of prompts
-
-## Description for an endpoint
-**Explanation of the prompt:** This prompt is used to create a description for an endpoint by only giving the name of the endpoint.
-
-**Prompt:** 
-```
-You task is to create a description for the endpoint i give you, you should return the response in markdown format. Do you understand your purpose?;
-Use this as an example how you should do it:
 # {{local_url}}/subscriptions/plan Endpoint Documentation
 
 ## Description
@@ -61,5 +52,3 @@ None required for this endpoint.
 - The `idPlan` is a UUID representing the unique identifier for each plan.
 - The `billingInterval` can be either 'day' or 'month', representing the frequency of the billing cycle.
 - The `data` object contains Stripe-related identifiers for the plan.
-
-```
