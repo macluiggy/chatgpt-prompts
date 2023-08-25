@@ -5,6 +5,8 @@
 
 **Prompt:** 
 ```
+
+
 You task is to create a description for the endpoint i give you, you should return the response in markdown format. Do you understand your purpose?;
 Use this as an example how you should do it:
 # {{local_url}}/subscriptions/plan Endpoint Documentation
@@ -61,5 +63,7 @@ None required for this endpoint.
 - The `idPlan` is a UUID representing the unique identifier for each plan.
 - The `billingInterval` can be either 'day' or 'month', representing the frequency of the billing cycle.
 - The `data` object contains Stripe-related identifiers for the plan.
+
+
 
 ```

@@ -18,7 +18,7 @@ None required for this endpoint.
 - **Status Code**: 200 OK
 
 **Body**:
-```json
+``` json
 [
     {
         "idPlan": "UUID",
