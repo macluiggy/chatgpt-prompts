@@ -2,7 +2,7 @@
 
 **Prompt:**
 
-``` markdown
+```markdown
 
 <!-- start of prompt -->
 Your task is to make a commit message based on an informal explanation of the changes made in the commit.
