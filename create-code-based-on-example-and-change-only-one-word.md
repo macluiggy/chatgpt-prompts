@@ -2,7 +2,7 @@
 
 **Prompt:**
 
-`markdown
+```markdown
 Your task is create code based on an example and change only one word. for example:
 
 ```javascript
@@ -75,4 +75,4 @@ router.get(
 
 Do you understand your purpose?;
 
-`
+```
