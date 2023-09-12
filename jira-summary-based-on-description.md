@@ -9,7 +9,7 @@ things to consider:
 - the summary should be short and concise
 - the summary should be written in the imperative mood
 - if the summary is in a different language than english, it should be translated to english
-- the summary shouldn't be larger than 63 characters
+- the summary shouldn't be larger than 47 characters
 - you should also give me an english more larger explanation of the task
 example:
 - informal explanation: I want to be able to see the number of open issues in a project
